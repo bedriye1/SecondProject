@@ -1,10 +1,14 @@
 public class Task1 {
-    String str = "amazon";
 
+
+
+    public static void main(String[] args) {
+
+        String str = "amazon";
         System.out.println(reverseString(str));
 
+
 }
-//I attended
     public static String reverseString(String str) {
 
         String newString="";
