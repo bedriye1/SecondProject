@@ -8,7 +8,7 @@ public class Task1 {
         System.out.println(reverseString(str));
 
 
-    }
+}
     public static String reverseString(String str) {
 
         String newString="";
